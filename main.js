@@ -110,7 +110,7 @@ function getSearchFormValue() {
     } else if (http.readyState == 4 && http.status == 404) {
       //console.log("No Product");
       alert("No Id is Exist.");
-      location.reload();
+      window.location.href = window.location.href;
     }
   };
   http.open("get", url_api, true);
