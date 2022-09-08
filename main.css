@@ -13,6 +13,7 @@
 	margin: 0;
 	box-sizing: border-box;
 	font-family: "Fira sans", sans-serif;
+	/* overflow: ; */
 }
 
 body {
@@ -106,7 +107,18 @@ input, button {
 	padding: 1rem;
 	/* margin-top: 2%; */
 }
-
+#new-task-submit-1 {
+	color: var(--pink);
+	font-size: 1.25rem;
+	font-weight: 700;
+	background-image: linear-gradient(to right, var(--pink), var(--purple));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	cursor: pointer;
+	transition: 0.4s;
+	padding: 1rem;
+	/* margin-top: 2%; */
+}
 #new-task-submit:hover {
 	opacity: 0.8;
 }
