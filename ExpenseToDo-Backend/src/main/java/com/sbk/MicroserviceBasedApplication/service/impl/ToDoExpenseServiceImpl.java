@@ -33,5 +33,23 @@ public class ToDoExpenseServiceImpl implements ToDoExpenseService{
         // TODO Auto-generated method stub
         return toDoExpenseRepository.findById(id).orElseThrow(()-> new ResourceNotFoundException("ToDoExpense", "Id", id));
     }
+
+    @Override
+    public ToDoExpense updateToDoExpenseById(long id ,ToDoExpense toDoExpense) {
+        // TODO Auto-generated method stub
+        toDoExpense.setId(id);
+        return toDoExpenseRepository.save(toDoExpense);
+    }
+
+    @Override
+    public Boolean deleteToDoExpenseById(long id) {
+        // TODO Auto-generated method stub
+        ToDoExpense toDoExpense = getToDoExpenseById(id);
+        toDoExpenseRepository.delete(toDoExpense);
+        if(toDoExpenseRepository.existsById(id)){
+            return false;
+        }
+        return true;
+    }
     
 }
