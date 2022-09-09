@@ -1,20 +1,63 @@
 # ExpenseManager
 
-![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2011.53.01%20AM.png)
-![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2011.53.01%20AM.png)
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-09%20at%2010.46.49%20AM.png)
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2011.53.04%20AM.png)
 
-<!-- # Adding an expense 
-![image](https://user-images.githubusercontent.com/67010484/185213160-4cd3e619-e959-4cf6-9a5f-e42e33dd1fde.png)
+# Adding an Expense 
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2011.53.58%20AM.png)
 
-# Showing all expenses
-![image](https://user-images.githubusercontent.com/67010484/185213296-b3dff926-46a9-4ce5-b498-2f301569a206.png)
+# Expense added succesfully 
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2011.54.15%20AM.png)
 
-# Updating an expense 
-![image](https://user-images.githubusercontent.com/67010484/185213394-d4dfe4c9-d6a5-4e11-85ff-5600933e96c2.png)
+# Checking Expense is added or not 
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2011.54.22%20AM.png)
 
-![image](https://user-images.githubusercontent.com/67010484/185213431-67734e63-c808-401e-89ca-647027b009cf.png)
+# Adding one more Expense 
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2011.55.34%20AM.png)
 
-# Deleting An Expense 
-![image](https://user-images.githubusercontent.com/67010484/185213481-9d6517d4-552f-408f-8b1c-2c0b7e46b20e.png)
+# Checking whether Expense is already Exist or not 
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2011.55.38%20AM.png)
 
-![image](https://user-images.githubusercontent.com/67010484/185213500-f0aaff85-6e7a-49af-b24f-afec5c1a10cb.png) -->
+# New Expense added succesfully 
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2011.55.45%20AM.png)
+
+# Checking Expense is added or not Or Seeing All Expenses
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2011.55.51%20AM.png)
+
+# Search Expense By Id
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2011.55.58%20AM.png)
+
+# Showing Expense By Id
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2011.56.47%20AM.png)
+
+# Deleting Expense By Id
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2011.56.57%20AM.png)
+
+# Checking Expense is deleted or not By Viewing All Expenses
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2011.57.02%20AM.png)
+
+# Checking Expense is deleted or not By Searching Id
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2011.57.06%20AM.png)
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2011.57.09%20AM.png)
+
+# Seeing All the Expenses
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2011.57.27%20AM.png)
+
+# Search Expense Id
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2012.00.37%20PM.png)
+
+# Use Edit Option for Updating
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2012.01.11%20PM.png)
+
+# Expense Updated Successfully
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2012.01.42%20PM.png)
+
+# Verifying the Expense By All Expense
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2012.01.46%20PM.png)
+
+# Verifying the Expense By Searching Id
+![image](/ToDoExpense%20Outputs/Screenshot%202022-09-08%20at%2012.01.53%20PM.png)
+
+
+
+
